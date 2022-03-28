@@ -1,0 +1,9 @@
+FLASK_ENV=development
+APPLICATION_CONFIG=config/develop.py
+FLASK_RUN_HOST=0.0.0.0
+FLASK_DEBUG = 1
+FLASK_APP=autoapp.py
+DB_HOST=localhost
+DB_NAME=signit
+DB_USER=postgres
+DB_PASSWORD=root
